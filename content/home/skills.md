@@ -9,35 +9,42 @@ title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "github"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "GitHub"
+  description = "5 years XP"
+
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "icons8-c++"
+  icon_pack = "custom"
+  name = "C++"
+  description = "5 years XP"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "icons8-python"
+  icon_pack = "custom"
+  name = "Python"
+  description = "8 years XP"
+
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Data Analysis"
+#  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
-#  description = "100%"  
+#  description = "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.

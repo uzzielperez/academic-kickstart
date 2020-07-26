@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Uzziel Perez
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Research Assistant CERN
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Alabama
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Particle Physicist. Science is a human endeavour.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Energy Physics
+- Science Communication
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Candidate, Physics
+    institution: University of Alabama
+    year: On-going
+  - course: BSc in Physics
+    institution: Ateneo de Manila University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +44,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/uzziesh
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/uzzielperez
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.cern.ch/ciperez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "uzzie.perez@cern.ch"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Uzziel Perez is a Graduate Research Assistant at the Department of Physics and Astronomy at the University of Alabama. They are based at CERN. Their research interests include Standard Model Precision Measurements, Machine Learning for Particle Physics and Searches for Exotic Physics. In lay terms, they are interested in seeing if our current understanding of what makes "us" and the universe up is accurate in their predictions. They use time-tested analysis tools to do research and are exploring new techniques such as using neural networks to infer and gain new insights from the data collected from the CMS detector, one of the general-purpose detectors in the Large Hadron Collider. On their free time, they like to hike mountains, find unexplored paths, and write about science, nature, being human, comedy and everything else that they find interesting.     
