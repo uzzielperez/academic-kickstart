@@ -1,7 +1,7 @@
 ---
-title: Extra Dimensions in High-Mass Diphoton Spectrum at 13 TeV
-event: A Dark Matter Summer School
-event_url: https://indico.cern.ch/event/704938/contributions/3023557/
+title: Mind S-cool CNN Philippines
+event: Episode 2
+event_url: https://cnnphilippines.com/videos
 
 location:
 address:
@@ -11,17 +11,17 @@ address:
   postcode:
   country:
 
-summary: Among the proposed explanations for the hierarchy problem, or the relative weakness of gravity compared to the other fundamental forces, is the existence of extra dimensions. We present here the analysis results using 2016 data collected from the CMS detector of the Large Hadron Collider at CERN.
+summary: Interview with Pecier Decierdo, host of Mind S-Cool which will be aired in CNN Philippines (August 29, 2020 live in link at 8:30 AM Manila time). Upcoming Episode 2 on Matter. Here I explain things that are smaller than atoms and how we probe them at CERN.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-07-19T13:00:00Z"
+date: "2020-29-08T08:30:00Z"
 date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -36,8 +36,8 @@ image:
 links:
 - icon:
   icon_pack: fab
-  name: indico
-  url: https://indico.cern.ch/event/780063/
+  name: Live link
+  url: https://cnnphilippines.com/videos
 url_code: ""
 url_pdf: ""
 url_slides: ""
