@@ -1,7 +1,7 @@
 ---
 title: Mind S-cool CNN Philippines
 event: Episode 2
-event_url: https://cnnphilippines.com/videos
+event_url: https://youtu.be/hH2s8nCM5vQ?t=416
 
 location:
 address:
@@ -36,7 +36,7 @@ image:
 links:
 - icon:
   icon_pack: fab
-  name: Live link
+  name: YouTube
   url: https://cnnphilippines.com/videos
 url_code: ""
 url_pdf: ""
