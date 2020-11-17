@@ -1,7 +1,7 @@
 ---
 title: Particle Silo
-event: MC & Interpretation Working Group
-event_url: https://indico.cern.ch/event/753161/
+event: Science Communication Hackathon 2020
+event_url: https://www.scicommhack.com/
 
 location:
 address:
@@ -66,4 +66,4 @@ math: true
 
 - **Particle Silo** is a community-driven one-stop shop repository for science communication!
 - Project prototype for the first Science Communication Hackathon at CERN, EPFL ArtLab and Idea Squared. Put together during the Hackathon weekend from November 13-16, 2020
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+- **Embed** Put TEAM here and final pitch [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
