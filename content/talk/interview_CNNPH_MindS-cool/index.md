@@ -12,7 +12,7 @@ address:
   country:
 
 summary: Interview with Pecier Decierdo, host of Mind S-Cool which will be aired in CNN Philippines (August 29, 2020 live in link at 8:30 AM Manila time). Upcoming Episode 2 on Matter. Here I explain things that are smaller than atoms and how we probe them at CERN.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Interview with Pecier Decierdo, host of Mind S-Cool which will be aired in CNN Philippines (August 29, 2020 live in link at 8:30 AM Manila time). Upcoming Episode 2 on Matter. Here I explain things that are smaller than atoms and how we probe them at CERN."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,15 +61,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
