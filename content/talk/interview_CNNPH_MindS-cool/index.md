@@ -37,7 +37,7 @@ links:
 - icon:
   icon_pack: fab
   name: YouTube
-  url: https://cnnphilippines.com/videos
+  url: https://youtu.be/hH2s8nCM5vQ?t=416
 url_code: ""
 url_pdf: ""
 url_slides: ""
