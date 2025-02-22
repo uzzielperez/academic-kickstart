@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant CERN
+role: Postdoctoral Researcher, La Salle Campus, Barcelona/ LHCb CERN
 
 # Organizations/Affiliations
 organizations:
-- name: University of Alabama
+- name: La Salle Campus, Barcelona
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Particle Physicist. Science is a human endeavour.
+bio: Particle Physicist. Programmer. AI.
 
 interests:
 - High Energy Physics
-- Science Communication
-- Machine Learning
+- Coding
+- AI
 
 education:
   courses:
-  - course: PhD Candidate, Physics
+  - course: PhD, Physics
     institution: University of Alabama
-    year: On-going
+    year: 2024
   - course: BSc in Physics
     institution: Ateneo de Manila University
     year: 2012
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Uzziel Perez is a Graduate Research Assistant at the Department of Physics and Astronomy at the University of Alabama. They are based at CERN. Their research interests include Standard Model Precision Measurements, Machine Learning for Particle Physics and Searches for Exotic Physics. In lay terms, they are interested in seeing if our current understanding of what makes "us" and the universe up is accurate in their predictions. They use time-tested analysis tools to do research and are exploring new techniques such as using neural networks to infer and gain new insights from the data collected from the CMS detector, one of the general-purpose detectors in the Large Hadron Collider. On their free time, they like to hike mountains, find unexplored paths, and write about science, nature, being human, comedy and everything else that they find interesting.     
+Uzziel Perez is a Postdoctoral Researcher at La Salle Campus, Barcelona. Their research interests include the use of AI models to reconstruct particles, real-time analysis, Standard Model Precision Measurements and Searches for Exotic Physics. In lay terms, they are interested in seeing if our current understanding of what makes "us" and the universe up is accurate in their predictions. They use time-tested analysis tools to do research and are exploring new techniques such as using neural networks to infer and gain new insights from the data collected from the LHCb detector (and formerly CMS, one of the general-purpose detectors) in the Large Hadron Collider. On their free time, they hiking mountains, finding unexplored paths, generating new AI and programming tools for startups and writing about science, nature, being human, comedy and everything else that they find interesting.     
