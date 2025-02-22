@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "uzzie.perez@cern.ch"
-phone = "+41 76 793 43 17"
+phone = "+34 676 686"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,11 +100,11 @@ address = {street = "Bâtiment 6/2-043, Espl. des Particules 1", city = "Meyrin"
 coordinates = {latitude = "46.230656", longitude = "6.048440"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 6 and walk to the end of the building and climb stairs/take elevator to Floor 1. Climb stairs to 2nd floor and see the first room on the right."
+directions = "I only go to CERN occasionally but my Burotel is here => Enter Building 6 and walk to the end of the building and climb stairs/take elevator to Floor 1. Climb stairs to 2nd floor and see the first room on the right."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 12:00 to 20:00", "Thursday 12:00 to 20:00"]
+office_hours = ["By Appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
